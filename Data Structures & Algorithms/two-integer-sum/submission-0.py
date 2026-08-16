@@ -12,3 +12,9 @@ class Solution:
                     return[i,index_map[current_value]]
 
 
+Time Complexity : O(n) + O(n) = O(2n) = O(n) 
+one for constructing map 
+one for iteration 
+# 2 passes 
+Space : o(n) 
+for hashmap
