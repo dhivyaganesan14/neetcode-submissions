@@ -10,3 +10,7 @@ class Solution:
                 i += 1
             else:
                 j-=1 
+
+Time = o(n)
+Space = o(1)
+# Solved using Two Pointers 
