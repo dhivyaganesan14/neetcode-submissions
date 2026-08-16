@@ -9,7 +9,8 @@ class Solution:
                 return [index_map[current_value],i]
             index_map[num] = i
  
-        
-        
+Time Complexity : o(n)
+Space : o (n)
+# Only 1 pass 
 
 
